@@ -44,9 +44,7 @@ const SplashScreen = () => {
                             exit={{ opacity: 0 }}
                             transition={{ duration: 1 }}
                         >
-                            IN LOVING MEMORY OF <br />
-                            OUR
-                            <br />
+                            IN LOVING MEMORY OF OUR<br />
                             DADDY
                         </motion.p>
                     )}
