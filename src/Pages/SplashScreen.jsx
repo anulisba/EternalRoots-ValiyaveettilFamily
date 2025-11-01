@@ -32,7 +32,7 @@ const SplashScreen = () => {
                             exit={{ opacity: 0 }}
                             transition={{ duration: 1 }}
                         >
-                            Memory Lane
+                            Valiyaveettil Family
                         </motion.h1>
                     )}
 
@@ -44,11 +44,10 @@ const SplashScreen = () => {
                             exit={{ opacity: 0 }}
                             transition={{ duration: 1 }}
                         >
-                            HONORING THE BELOVED MEMBERS OF <br />
-                            <img src="https://res.cloudinary.com/dpo91btlc/image/upload/v1759077822/madahinakath_wfdsss.png" />
-
+                            IN LOVING MEMORY OF <br />
+                            OUR
                             <br />
-                            FAMILY
+                            DADDY
                         </motion.p>
                     )}
                 </motion.div>
