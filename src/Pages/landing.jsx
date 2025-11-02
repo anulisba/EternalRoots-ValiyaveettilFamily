@@ -268,14 +268,14 @@ const MemorialWebsite = () => {
                             <>
                                 യേശു അവളോടു പറഞ്ഞു: പുനരുത്ഥാനവും ജീവനും ഞാനാകുന്നു;
                                 എന്നിൽ വിശ്വസിക്കുന്നവൻ മരിച്ചാലും ജീവിക്കും;
-                                ജീവിച്ചുകൊണ്ടു എന്നിൽ വിശ്വസിക്കുന്നവൻ ഒരിക്കലും മരിക്കയില്ല.”
+                                ജീവിച്ചുകൊണ്ടു എന്നിൽ വിശ്വസിക്കുന്നവൻ ഒരിക്കലും മരിക്കയില്ല.” <br />
                                 (യോഹന്നാൻ 11:25-26)
                             </>
                         ) : (
                             <>
                                 Jesus said to her, “I am the resurrection and the life.
                                 The one who believes in Me will live, even though they die;
-                                and whoever lives by believing in Me will never die.”
+                                and whoever lives by believing in Me will never die.”<br />
                                 (John 11:25-26)
                             </>
                         )}
