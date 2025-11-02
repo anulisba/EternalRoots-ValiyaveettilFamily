@@ -217,7 +217,7 @@ const Timeline = () => {
             </section>
 
             {/* Family Tree Section */}
-            {/* <section className="family-tree-section">
+            <section className="family-tree-section">
                 <div className="container">
                     <div className="section-title">
                         <h2>Family Tree</h2>
@@ -288,12 +288,12 @@ const Timeline = () => {
                         </div>
                     </div>
                 </div>
-            </section> */}
+            </section>
 
             {/* Footer */}
             <footer className="footer">
                 <div className="t-container">
-                    <p>Created with love by Madathinakath family</p>
+                    <p>Created with love by Vliyaveettil Family</p>
                     <p>For Memorial Websites Contact us:</p>
                     <p>+91 9446914883</p>
                     <p>eternalroots2020@gmail.com</p>

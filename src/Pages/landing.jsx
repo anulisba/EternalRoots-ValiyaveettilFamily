@@ -119,8 +119,8 @@ const MemorialWebsite = () => {
             <section className="secondary-nav">
                 <div className="container">
                     <button className="btn-primary">Home</button>
-                    <button className="btn-secondary" onClick={viewGallery}>Gallery</button>
-                    <button className="btn-secondary" onClick={viewTimeline}>Timeline</button>
+                    <button className="btn-secondary">Gallery</button>
+                    <button className="btn-secondary">Timeline</button>
                 </div>
             </section>
 
