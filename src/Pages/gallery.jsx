@@ -11,53 +11,155 @@ const Gallery = () => {
     const galleryImages = [
         {
             id: 1,
-            src: "https://res.cloudinary.com/dpo91btlc/image/upload/v1759250680/WhatsApp_Image_2025-09-29_at_11.04.23_PM_1_ajiead.jpg",
+            src: "https://res.cloudinary.com/dpo91btlc/image/upload/v1762182719/IMG_20251103_192718_k4yqcy.jpg",
             title: "Grandparents Wedding Day",
             year: "1955",
             description: "John and Mary on their wedding day at St. Peter's Church"
         },
         {
             id: 2,
-            src: "https://res.cloudinary.com/dpo91btlc/image/upload/v1759250680/WhatsApp_Image_2025-09-28_at_10.43.27_PM_1_krfzd5.jpg",
+            src: "https://res.cloudinary.com/dpo91btlc/image/upload/v1762182716/IMG_9603.PNG_qta2on.jpg",
             title: "Family Reunion 1982",
             year: "1982",
             description: "The entire Smith family gathering at the annual reunion"
         },
         {
             id: 3,
-            src: "https://res.cloudinary.com/dpo91btlc/image/upload/v1759250681/WhatsApp_Image_2025-09-30_at_2.17.36_PM_i2z2o9.jpg",
+            src: "https://res.cloudinary.com/dpo91btlc/image/upload/v1762182717/IMG_20251103_192241_qmzdcb.jpg",
             title: "50th Anniversary",
             year: "2005",
             description: "Golden anniversary celebration for John and Mary"
         },
         {
             id: 4,
-            src: "https://res.cloudinary.com/dpo91btlc/image/upload/v1759250681/WhatsApp_Image_2025-09-28_at_10.57.28_PM_2_byst5w.jpg",
+            src: "https://res.cloudinary.com/dpo91btlc/image/upload/v1762182716/IMG_20251103_192307_hbn7hs.jpg",
             title: "Beach Vacation",
             year: "1998",
             description: "Family vacation at the beach house in summer '98"
         },
         {
             id: 5,
-            src: "https://res.cloudinary.com/dpo91btlc/image/upload/v1759250957/WhatsApp_Image_2025-09-30_at_10.17.32_PM_yrbepd.jpg",
+            src: "https://res.cloudinary.com/dpo91btlc/image/upload/v1762182716/IMG_20251103_192215_mejkw4.jpg",
             title: "Beach Vacation",
             year: "1998",
             description: "Family vacation at the beach house in summer '98"
         },
         {
             id: 6,
-            src: "https://res.cloudinary.com/dpo91btlc/image/upload/v1759253898/WhatsApp_Image_2025-09-30_at_10.39.55_PM_ts9qdd.jpg",
+            src: "https://res.cloudinary.com/dpo91btlc/image/upload/v1762182716/IMG_20251103_194904_uw8ril.jpg",
             title: "Beach Vacation",
             year: "1998",
             description: "Family vacation at the beach house in summer '98"
         },
         {
             id: 7,
-            src: "https://res.cloudinary.com/dpo91btlc/image/upload/v1759253904/WhatsApp_Image_2025-09-30_at_10.40.21_PM_y3osvn.jpg",
+            src: "https://res.cloudinary.com/dpo91btlc/image/upload/v1762182715/IMG_20251103_194827_hayxlq.jpg",
             title: "Beach Vacation",
             year: "1998",
             description: "Family vacation at the beach house in summer '98"
-        }
+        },
+        {
+            id: 8,
+            src: "https://res.cloudinary.com/dpo91btlc/image/upload/v1762182715/ea43bc0b-063b-4ddd-b1be-06571882eaa8_ntl0ip.jpg",
+            title: "Beach Vacation",
+            year: "1998",
+            description: "Family vacation at the beach house in summer '98"
+        },
+        {
+            id: 9,
+            src: "https://res.cloudinary.com/dpo91btlc/image/upload/v1762182716/d7024284-f69a-49d7-bf18-d7442cc1f0fe_b5lpnv.jpg",
+            title: "Beach Vacation",
+            year: "1998",
+            description: "Family vacation at the beach house in summer '98"
+        },
+        {
+            id: 10,
+            src: "https://res.cloudinary.com/dpo91btlc/image/upload/v1762182714/DSC01428_Original_celbm6.jpg",
+            title: "Beach Vacation",
+            year: "1998",
+            description: "Family vacation at the beach house in summer '98"
+        },
+        {
+            id: 11,
+            src: "https://res.cloudinary.com/dpo91btlc/image/upload/v1762182713/DSC04874_Original_byqece.jpg",
+            title: "",
+            year: "",
+            description: ""
+        },
+        {
+            id: 12,
+            src: "https://res.cloudinary.com/dpo91btlc/image/upload/v1762182712/DSC01348_Original_ymvzss.jpg",
+            title: "",
+            year: "",
+            description: "",
+        },
+        {
+            id: 13,
+            src: "https://res.cloudinary.com/dpo91btlc/image/upload/v1762182714/aa4d7a15-4498-4d6a-a8d1-1ddb631d6441_ir3tju.jpg",
+            title: "",
+            year: "",
+            description: "",
+        },
+        {
+            id: 14,
+            src: "https://res.cloudinary.com/dpo91btlc/image/upload/v1762182712/IMG_3261_dvqc6w.jpg",
+            title: "",
+            year: "",
+            description: "",
+        },
+
+        {
+            id: 16,
+            src: "https://res.cloudinary.com/dpo91btlc/image/upload/v1762182709/IMG_3216_dbxa1y.jpg",
+            title: "",
+            year: "",
+            description: "",
+        },
+        {
+            id: 17,
+            src: "https://res.cloudinary.com/dpo91btlc/image/upload/v1762182712/IMG_9685_kqeemu.jpg",
+            title: "",
+            year: "",
+            description: "",
+        },
+        {
+            id: 18,
+            src: "https://res.cloudinary.com/dpo91btlc/image/upload/v1762182709/Family_h3un8z.jpg",
+            title: "",
+            year: "",
+            description: "",
+        },
+        {
+            id: 19,
+            src: "https://res.cloudinary.com/dpo91btlc/image/upload/v1762182709/IMG_7102_Original_ty7nur.jpg",
+            title: "",
+            year: "",
+            description: "",
+        },
+        {
+            id: 20,
+            src: "https://res.cloudinary.com/dpo91btlc/image/upload/v1762182709/efa102de-0f9f-41b7-9736-3ded83bf2ff2_i9sxma.jpg",
+            title: "",
+            year: "",
+            description: "",
+        },
+        {
+            id: 21,
+            src: "https://res.cloudinary.com/dpo91btlc/image/upload/v1762182709/IMG_0229_g17bln.jpg",
+            title: "",
+            year: "",
+            description: "",
+        },
+        {
+            id: 22,
+            src: "https://res.cloudinary.com/dpo91btlc/image/upload/v1762182714/0d5dc9ca-6fe4-4980-bd94-e4bffffa9ba9_uitmri.jpg",
+            title: "",
+            year: "",
+            description: "",
+        },
+
+
+
         // ... add more photos here
     ];
 
@@ -109,7 +211,7 @@ const Gallery = () => {
                 <div className="container">
                     <button className="btn-secondary" onClick={viewHome}>Home</button>
                     <button className="btn-primary">Gallery</button>
-                    <button className="btn-secondary" onClick={viewTimeline}>Timeline</button>
+                    {/* <button className="btn-secondary" onClick={viewTimeline}>Timeline</button> */}
                 </div>
             </section>
 
