@@ -97,6 +97,13 @@ const Gallery = () => {
             description: "",
         },
         {
+            id: 16,
+            src: "https://res.cloudinary.com/dpo91btlc/image/upload/v1762182709/IMG_3216_dbxa1y.jpg",
+            title: "",
+            year: "",
+            description: "",
+        },
+        {
             id: 12,
             src: "https://res.cloudinary.com/dpo91btlc/image/upload/v1762182712/DSC01348_Original_ymvzss.jpg",
             title: "",
@@ -133,14 +140,15 @@ const Gallery = () => {
             year: "",
             description: "",
         },
-
         {
-            id: 16,
-            src: "https://res.cloudinary.com/dpo91btlc/image/upload/v1762182709/IMG_3216_dbxa1y.jpg",
+            id: 15,
+            src: "https://res.cloudinary.com/dpo91btlc/image/upload/v1762188669/IMG-20251103-WA0023_fr7zmf.jpg",
             title: "",
             year: "",
-            description: "",
+            description: ""
         },
+
+
         {
             id: 17,
             src: "https://res.cloudinary.com/dpo91btlc/image/upload/v1762182712/IMG_9685_kqeemu.jpg",
