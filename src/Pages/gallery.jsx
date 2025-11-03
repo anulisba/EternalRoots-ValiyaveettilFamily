@@ -204,6 +204,7 @@ const Gallery = () => {
                         <h1>Memory Lane</h1>
                     </div>
 
+
                 </div>
             </header>
             {/* Secondary Navbar for CTA buttons */}
@@ -216,10 +217,12 @@ const Gallery = () => {
             </section>
 
             <div className="gallery-header">
-                <div className="t-container">
+                <div className="container">
                     <h1>Family Memories</h1>
+                    <div className="underline"></div>
                 </div>
             </div>
+
 
             {/* Gallery Grid */}
             <section className="gallery-grid-section">

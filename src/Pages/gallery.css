@@ -45,7 +45,9 @@
     box-shadow: 0 15px 30px var(--color-shadow-dark);
 }
 
-
+.gallery-grid-section {
+    padding: 0;
+}
 
 .gallery-grid {
     column-count: 4;
