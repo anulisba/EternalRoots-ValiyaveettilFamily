@@ -118,6 +118,12 @@ const Timeline = () => {
                         alt="Family"
                         className="timeline-image"
                     />
+                    <p className="timeline-caption">
+                        {language === "ml"
+                            ? "ജോസഫ് മാത്യു തന്റെ മാതാപിതാക്കളോടും സഹോദരങ്ങളോടും ഒപ്പം"
+                            : "Joseph Mathew with his parents and siblings."}
+                    </p>
+
                 </div>
             </section>
 
