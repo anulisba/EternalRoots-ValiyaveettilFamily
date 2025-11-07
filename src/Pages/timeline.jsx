@@ -32,7 +32,7 @@ const Timeline = () => {
                 <div className="container">
                     <button className="btn-secondary" onClick={viewHome}>Home</button>
                     <button className="btn-secondary" onClick={viewGallery}>Gallery</button>
-                    <button className="btn-primary">Timeline</button>
+                    <button className="btn-primary">History</button>
                 </div>
             </section>
             <div className="gallery-header">
